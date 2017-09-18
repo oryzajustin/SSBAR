@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 7681fb862ce23432b82059be94353e67
+timeCreated: 1505668050
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: DrawCall_52
+    100002: DrawCall_53
+    100004: DrawCall_54
+    100006: DrawCall_55
+    100008: DrawCall_56
+    100010: DrawCall_57
+    100012: DrawCall_58
+    100014: DrawCall_59
+    100016: DrawCall_60
+    100018: DrawCall_61
+    100020: DrawCall_62
+    100022: mixamorig_Head
+    100024: mixamorig_HeadTop_End
+    100026: mixamorig_Hips
+    100028: mixamorig_LeftArm
+    100030: mixamorig_LeftFoot
+    100032: mixamorig_LeftForeArm
+    100034: mixamorig_LeftHand
+    100036: mixamorig_LeftHandIndex1
+    100038: mixamorig_LeftHandIndex2
+    100040: mixamorig_LeftHandIndex3
+    100042: mixamorig_LeftHandIndex4
+    100044: mixamorig_LeftLeg
+    100046: mixamorig_LeftShoulder
+    100048: mixamorig_LeftToe_End
+    100050: mixamorig_LeftToeBase
+    100052: mixamorig_LeftUpLeg
+    100054: mixamorig_Neck
+    100056: mixamorig_RightArm
+    100058: mixamorig_RightFoot
+    100060: mixamorig_RightForeArm
+    100062: mixamorig_RightHand
+    100064: mixamorig_RightHandIndex1
+    100066: mixamorig_RightHandIndex2
+    100068: mixamorig_RightHandIndex3
+    100070: mixamorig_RightHandIndex4
+    100072: mixamorig_RightLeg
+    100074: mixamorig_RightShoulder
+    100076: mixamorig_RightToe_End
+    100078: mixamorig_RightToeBase
+    100080: mixamorig_RightUpLeg
+    100082: mixamorig_Spine
+    100084: mixamorig_Spine1
+    100086: mixamorig_Spine2
+    100088: //RootNode
+    400000: DrawCall_52
+    400002: DrawCall_53
+    400004: DrawCall_54
+    400006: DrawCall_55
+    400008: DrawCall_56
+    400010: DrawCall_57
+    400012: DrawCall_58
+    400014: DrawCall_59
+    400016: DrawCall_60
+    400018: DrawCall_61
+    400020: DrawCall_62
+    400022: mixamorig_Head
+    400024: mixamorig_HeadTop_End
+    400026: mixamorig_Hips
+    400028: mixamorig_LeftArm
+    400030: mixamorig_LeftFoot
+    400032: mixamorig_LeftForeArm
+    400034: mixamorig_LeftHand
+    400036: mixamorig_LeftHandIndex1
+    400038: mixamorig_LeftHandIndex2
+    400040: mixamorig_LeftHandIndex3
+    400042: mixamorig_LeftHandIndex4
+    400044: mixamorig_LeftLeg
+    400046: mixamorig_LeftShoulder
+    400048: mixamorig_LeftToe_End
+    400050: mixamorig_LeftToeBase
+    400052: mixamorig_LeftUpLeg
+    400054: mixamorig_Neck
+    400056: mixamorig_RightArm
+    400058: mixamorig_RightFoot
+    400060: mixamorig_RightForeArm
+    400062: mixamorig_RightHand
+    400064: mixamorig_RightHandIndex1
+    400066: mixamorig_RightHandIndex2
+    400068: mixamorig_RightHandIndex3
+    400070: mixamorig_RightHandIndex4
+    400072: mixamorig_RightLeg
+    400074: mixamorig_RightShoulder
+    400076: mixamorig_RightToe_End
+    400078: mixamorig_RightToeBase
+    400080: mixamorig_RightUpLeg
+    400082: mixamorig_Spine
+    400084: mixamorig_Spine1
+    400086: mixamorig_Spine2
+    400088: //RootNode
+    4300000: DrawCall_52
+    4300002: DrawCall_53
+    4300004: DrawCall_54
+    4300006: DrawCall_55
+    4300008: DrawCall_56
+    4300010: DrawCall_57
+    4300012: DrawCall_58
+    4300014: DrawCall_59
+    4300016: DrawCall_60
+    4300018: DrawCall_61
+    4300020: DrawCall_62
+    7400000: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: DrawCall_52
+    13700002: DrawCall_53
+    13700004: DrawCall_54
+    13700006: DrawCall_55
+    13700008: DrawCall_56
+    13700010: DrawCall_57
+    13700012: DrawCall_58
+    13700014: DrawCall_59
+    13700016: DrawCall_60
+    13700018: DrawCall_61
+    13700020: DrawCall_62
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
